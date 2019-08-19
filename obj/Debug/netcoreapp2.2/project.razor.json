@@ -2948,6 +2948,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Pages/Students/Edit.cshtml",
+      "TargetPath": "Pages/Students/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Pages/Error.cshtml",
       "TargetPath": "Pages/Error.cshtml",
       "FileKind": "mvc"
@@ -2955,6 +2960,16 @@
     {
       "FilePath": "Pages/Index.cshtml",
       "TargetPath": "Pages/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Students/Delete.cshtml",
+      "TargetPath": "Pages/Students/Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Students/Details.cshtml",
+      "TargetPath": "Pages/Students/Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2975,6 +2990,16 @@
     {
       "FilePath": "Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Students/Index.cshtml",
+      "TargetPath": "Pages/Students/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Students/Create.cshtml",
+      "TargetPath": "Pages/Students/Create.cshtml",
       "FileKind": "mvc"
     },
     {
